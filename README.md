@@ -57,7 +57,7 @@
 
 GitHub contributions:
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=ffffff&color=708090&line=24292f&point=24292f&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imAdnanSaid&bg_color=ffffff&color=708090&line=24292f&point=24292f&area=true&hide_border=true)
 
 
 
