@@ -2,15 +2,18 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # Hi there, I'm Adnan Syed 👋
 
 ## I'm a Developer, Creator, and Learner!
 
-- 🔭 I’m currently working on **[Project Name](https://projectlink.com)**
 - 🌱 I’m currently learning **[ML/AI]**
 - 👯 I’m looking to collaborate on **[Open Source Project]**
 - 🤔 I’m looking for help with **[Issue or Topic]**
-- 💬 Ask me about **[Anything](https://github.com/iamAdnanSaid/issues)**
+- 💬 Ask me about **[Anything](https://github.com/imAdnanSaid/issues)**
 
 ### Languages and Tools:
 
@@ -30,32 +33,28 @@
 
 ### GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamAdnanSaid&show_icons=true&theme=radical)
-
-### Recent Projects:
-
-- [Project 1](https://project1link.com): Short description of the project.
-- [Project 2](https://project2link.com): Short description of the project.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imAdnanSaid&show_icons=true&theme=radical)
 
 ### Coding Activity:
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.herokuapp.com/graph?username=iamAdnanSaid&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.herokuapp.com/graph?username=imAdnanSaid&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
 
 ### Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beingadnansyed/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iamAdnanSaid)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/imAdnanSaid)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://medium.com/@imadnansyed.)
 
 ### Profile Visitors:
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamAdnanSaid&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=imAdnanSaid&color=blueviolet)
 
 ### GitHub Trophies:
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamAdnanSaid)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=imAdnanSaid)
 
 ### Favorite Quote:
 
 > "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do." - Pelé
+
 
