@@ -6,10 +6,18 @@
 
 ## I'm a Developer, Creator, and Learner!
 
-- 🌱 I’m currently learning **[ML/AI]**
-- 👯 I’m looking to collaborate on **[Open Source Project]**
-- 🤔 I’m looking for help with **[Issue or Topic]**
+- 🌱 I’m currently learning **ML/AI**
+- 👯 I’m looking to collaborate on **Open Source Project**
+- 🤔 I’m looking for help with related to my Field
 - 💬 Ask me about **[Anything](https://github.com/imAdnanSaid/issues)**
+- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/beingadnansyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adnan-Syed" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25652200/adnan-syed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Adnan-Syed" height="30" width="40" /></a>
+<a href="https://fb.com/imAdnanSaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Adnan Syed" height="30" width="40" /></a>
+<a href="https://instagram.com/sleepy_chap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Adnan Syed" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 
@@ -35,11 +43,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imAdnanSaid)](https://github.com/imAdnanSaid/github-readme-activity-graph)
 
 
-### Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beingadnansyed/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/imAdnanSaid)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://medium.com/@imadnansyed.)
 
 ### Profile Visitors:
 
