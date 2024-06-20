@@ -32,7 +32,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imAdnanSaid&show_icons=true&theme=radical)
 
 ### Coding Activity:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?imAdnanSaid=yourusername&theme=github)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imAdnanSaid)](https://github.com/imAdnanSaid/github-readme-activity-graph)
 
 
 ### Connect with Me:
