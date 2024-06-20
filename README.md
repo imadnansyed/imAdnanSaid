@@ -40,11 +40,12 @@ I am an Aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/seaborn/seaborn-original.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/plotly/brand-assets/main/logos/plotly/plotly-logomark.png" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
+
 
 
 ---
