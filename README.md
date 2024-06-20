@@ -32,8 +32,8 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imAdnanSaid&show_icons=true&theme=radical)
 
 ### Coding Activity:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?imAdnanSaid=yourusername&theme=github)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.herokuapp.com/graph?username=imAdnanSaid&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
 
 ### Connect with Me:
 
