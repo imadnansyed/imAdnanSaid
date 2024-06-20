@@ -1,37 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=imAdnanSaid&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hey there !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+# Hi there, I'm Adnan Syed 👋
 
----
+## I'm a Developer, Creator, and Learner!
 
-### About Me :
-I am an Aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+- 🔭 I’m currently working on **[Project Name](https://projectlink.com)**
+- 🌱 I’m currently learning **[ML/AI]**
+- 👯 I’m looking to collaborate on **[Open Source Project]**
+- 🤔 I’m looking for help with **[Issue or Topic]**
+- 💬 Ask me about **[Anything](https://github.com/iamAdnanSaid/issues)**
 
-- :telescope: I’m a Student of Computer Science and contributing to ML/AI Field.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beingadnansyed/)
-
-- ---
-
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -47,25 +28,34 @@ I am an Aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 </div>
 
 
+### GitHub Stats:
 
----
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamAdnanSaid&show_icons=true&theme=radical)
 
-### :fire: My Stats :
+### Recent Projects:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imAdnanSaid&theme=dark&background=000000)](https://git.io/streak-stats)
+- [Project 1](https://project1link.com): Short description of the project.
+- [Project 2](https://project2link.com): Short description of the project.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imAdnanSaid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### Coding Activity:
 
----
+![Ashutosh's github activity graph](https://github-readme-activity-graph.herokuapp.com/graph?username=iamAdnanSaid&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
 
-### :writing_hand: Blog Posts :
+### Connect with Me:
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beingadnansyed/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iamAdnanSaid)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://medium.com/@imadnansyed.)
 
+### Profile Visitors:
 
+![Profile Views](https://komarev.com/ghpvc/?username=iamAdnanSaid&color=blueviolet)
 
+### GitHub Trophies:
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamAdnanSaid)
 
+### Favorite Quote:
 
+> "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do." - Pelé
 
