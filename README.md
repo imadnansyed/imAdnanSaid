@@ -27,7 +27,7 @@ I am an Aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beingadnansyed/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beingadnansyed/)
 
 - ---
 
@@ -40,7 +40,7 @@ I am an Aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/plotly/brand-assets/main/logos/plotly/plotly-logomark.png" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-plain-wordmark.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
