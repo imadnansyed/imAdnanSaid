@@ -52,5 +52,12 @@
 ### Favorite Quote:
 
 > "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do." - Pelé
+>
+> # Hi there 👋
+
+GitHub contributions:
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=ffffff&color=708090&line=24292f&point=24292f&area=true&hide_border=true)
+
 
 
